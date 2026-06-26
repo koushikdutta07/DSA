@@ -3,8 +3,5 @@ class Solution:
         if x < 0:
             return False
         num = str(x)
-        if num == num[::-1]:
-            return True
-        else: 
-            return False
+        return num == num[::-1]
         
