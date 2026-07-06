@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/koushikdutta07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0704-binary-search](https://github.com/koushikdutta07/DSA/tree/master/0704-binary-search) |
+| [1929-concatenation-of-array](https://github.com/koushikdutta07/DSA/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/koushikdutta07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/koushikdutta07/DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
