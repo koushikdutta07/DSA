@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/koushikdutta07/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/koushikdutta07/DSA/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/koushikdutta07/DSA/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/koushikdutta07/DSA/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/koushikdutta07/DSA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -41,4 +43,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/koushikdutta07/DSA/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/koushikdutta07/DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
